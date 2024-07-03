@@ -1,0 +1,4 @@
+[submodule "src/main/resources/config"]
+	path = src/main/resources/config
+	url = git@github.com:JiHongKim98/my-modules.git
+	branch = main
